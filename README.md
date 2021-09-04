@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fzzcode
 - Bachelor: Dalian University of Technology
-- Master(now): University of Tokyo
-- Research Interest: Computer Architecture, AI chips, In-Menory-Computing, Annealing Processor, ML system, HCI, VR/VR/MR.(hardware and software co-design)
+- Master(now): the University of Tokyo
+- Research Interest: hardware and software co-design
 
 
 <!---
