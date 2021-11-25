@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fzzcode
 - Bachelor: Dalian University of Technology
-- Master(now): the University of Tokyo
+- Master(now): University of Tokyo
 - Research Interest: hardware and software co-design
 
 
