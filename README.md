@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @fzzcode
+- 👋 Hi, there!
+I’m @fzzcode
 - Bachelor: Dalian University of Technology
 - Master(now): University of Tokyo
-- Research Interest: hardware and software co-design
+- Research Interest: hardware and software co-design, Effective and scalable computation Architecture for AI/quantum, Computation-in-Memory, ML/DL, Quantum annealing, GNNs.
 
 
 <!---
